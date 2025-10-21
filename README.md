@@ -72,7 +72,7 @@ Designing optimal Bitcoin accumulation strategies should be a rigorous generaliz
 - [Georgia Tech MSA · Summer 2025](https://github.com/TrilemmaFoundation/GT-MSA-S25)  
 - [UCSD MQF · Summer 2025](https://github.com/TrilemmaFoundation/UCSD-MQF-S25)  
 
-👉 [View all partners or inquire about collaborating](https://www.hypertrial.ai/partners).  
+👉 [View all partners or inquire about collaborating](https://www.hypertrial.ai).  
 
 ---
 
