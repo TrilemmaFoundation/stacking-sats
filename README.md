@@ -1,6 +1,6 @@
-# Stacking Sats Master Repo
+# Stacking Sats Commons
 
-Welcome to the master repository for the [Hypertrial.ai](https://www.hypertrial.ai/) Stacking Sats project — an open-source ecosystem for building, testing, and deploying Bitcoin accumulation strategies.
+Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertrial.ai/) [Stacking Sats](https://www.stackingsats.org/) microproduct. Maintained by the Trilemma Foundation, this repository is the gateway to making contributions to the product accessible through capstone projects, datathons, and general open source collaboration.
 
 ---
 
